@@ -1,4 +1,6 @@
 # Human-Resources-Report from 2000 - 2020
+
+Tools: SQL and Power Bi 
 ![HR1](https://github.com/ruthomolara/Human-Resources-Report/assets/140560092/dc6c8d99-51c3-460a-a036-0cd96f138f0e)
 ![HR2](https://github.com/ruthomolara/Human-Resources-Report/assets/140560092/7d09261f-01b7-49bc-9792-af5376172296)
 ![HR3](https://github.com/ruthomolara/Human-Resources-Report/assets/140560092/99e25e94-10e0-48b6-9944-4f6db1493de2)
